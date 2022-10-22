@@ -6,14 +6,18 @@ This week we regenerated our code according to HTML Semantic Elements.
 
 A semantic element clearly describes its meaning to both the browser and the developer.
 
-Examples of non-semantic elements: div and span - Tells nothing about its content.
+Examples of non-semantic elements: ***div*** and ***span*** - Tells nothing about its content.
 
-Examples of semantic elements: header, footer, and article - Clearly defines its content.
+Examples of semantic elements: ***header***, ***footer***, and ***article*** - Clearly defines its content.
 
 ## Resources
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+## Live Link
+
+https://ozgunefe.github.io/UK-Bootcamp-Challenges/Module-1-Challenge/
 
 ![Website Screenshot](./Screenshot/website-screenshot.png)
